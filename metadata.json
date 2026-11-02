@@ -1,0 +1,6 @@
+{
+  "name": "Sarkar Semantic Glossary & Governance Matrix",
+  "description": "Dark-mode Proutist and Neo-Humanist semantic glossary with Sarkar’s definitions, comparative philosophy matrices, fuzzy concept search, and governance implementation checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
